@@ -17,6 +17,8 @@
 | data_visualization.ipynb  | Trực quan hóa dữ liệu                                          |
 | knn.ipynb                 | File chính định nghĩa, huấn luyện mô hình và thực hiện dự đoán |
 
+Trong đó dataset cũng như mô tả chi tiết có thể được tìm thấy ở [Kaggle](https://www.kaggle.com/datasets/valakhorasani/mobile-device-usage-and-user-behavior-dataset/).
+
 ## Hướng dẫn setup môi trường
 
 `cd` tới thư mục này và tạo môi trường ảo:
